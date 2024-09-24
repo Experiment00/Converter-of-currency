@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+.Converter {
+    margin: 20px;
+}
+
+select , input , button {
+    margin: 5px;
+    padding: 5px;
+}
+
+.result {
+    margin: 20px;
+}
